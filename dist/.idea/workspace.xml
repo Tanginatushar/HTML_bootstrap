@@ -28,28 +28,38 @@
       <file leaf-file-name="bootstrap_exercise03.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/bootstrap_exercise03.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-6.1666665" vertical-offset="302" max-vertical-offset="1590">
+            <state vertical-scroll-proportion="-7.25" vertical-offset="276" max-vertical-offset="1590">
               <caret line="30" column="53" selection-start-line="29" selection-start-column="12" selection-end-line="30" selection-end-column="53" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="bootstrap_excercise04.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="bootstrap_excercise04.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/bootstrap_excercise04.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.54986525" vertical-offset="1491" max-vertical-offset="1920">
-              <caret line="113" column="59" selection-start-line="113" selection-start-column="59" selection-end-line="113" selection-end-column="59" />
+            <state vertical-scroll-proportion="-12.041667" vertical-offset="281" max-vertical-offset="1935">
+              <caret line="38" column="14" selection-start-line="38" selection-start-column="14" selection-end-line="38" selection-end-column="14" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="test.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test.html">
+      <file leaf-file-name="bootstrap_excercise05.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/bootstrap_excercise05.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-5.625" vertical-offset="0" max-vertical-offset="315">
-              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+            <state vertical-scroll-proportion="0.6822917" vertical-offset="938" max-vertical-offset="1890">
+              <caret line="80" column="43" selection-start-line="80" selection-start-column="43" selection-end-line="80" selection-end-column="43" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="template.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/template.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-3.5" vertical-offset="291" max-vertical-offset="735">
+              <caret line="25" column="0" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -63,9 +73,10 @@
         <option value="$PROJECT_DIR$/test.html" />
         <option value="$PROJECT_DIR$/bootstrap_excercise01.html" />
         <option value="$PROJECT_DIR$/bootstrap_exercise02.html" />
-        <option value="$PROJECT_DIR$/bootstrap_excercise05.html" />
         <option value="$PROJECT_DIR$/bootstrap_exercise03.html" />
+        <option value="$PROJECT_DIR$/template.html" />
         <option value="$PROJECT_DIR$/bootstrap_excercise04.html" />
+        <option value="$PROJECT_DIR$/bootstrap_excercise05.html" />
       </list>
     </option>
   </component>
@@ -245,22 +256,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/bootstrap_excercise05.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="408">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bootstrap_exercise03.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-6.1666665" vertical-offset="302" max-vertical-offset="1590">
-          <caret line="30" column="53" selection-start-line="29" selection-start-column="12" selection-end-line="30" selection-end-column="53" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/test.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-5.625" vertical-offset="0" max-vertical-offset="315">
@@ -269,10 +264,34 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/template.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.5" vertical-offset="291" max-vertical-offset="735">
+          <caret line="25" column="0" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bootstrap_exercise03.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-7.25" vertical-offset="276" max-vertical-offset="1590">
+          <caret line="30" column="53" selection-start-line="29" selection-start-column="12" selection-end-line="30" selection-end-column="53" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/bootstrap_excercise04.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.54986525" vertical-offset="1491" max-vertical-offset="1920">
-          <caret line="113" column="59" selection-start-line="113" selection-start-column="59" selection-end-line="113" selection-end-column="59" />
+        <state vertical-scroll-proportion="-12.041667" vertical-offset="281" max-vertical-offset="1935">
+          <caret line="38" column="14" selection-start-line="38" selection-start-column="14" selection-end-line="38" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bootstrap_excercise05.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6822917" vertical-offset="938" max-vertical-offset="1890">
+          <caret line="80" column="43" selection-start-line="80" selection-start-column="43" selection-end-line="80" selection-end-column="43" />
           <folding />
         </state>
       </provider>
