@@ -37,7 +37,7 @@
             <td><?php
                 foreach($row['stars'] as $wish){
                     ?>
-                    <ul>
+                    <ul style="list-style-type:square">
                         <li><?php echo $wish?></li>
                     </ul>
                 <?php }?>
